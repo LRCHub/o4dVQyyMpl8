@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "杪夏",
+  "base_artist": "Laica",
+  "createdAt": "2026-03-01T02:13:33.859620Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "杪夏",
+      "artist": "クレナズム",
+      "has_synced": true,
+      "path": "select/01_杪夏_クレナズム.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "杪夏",
+      "artist": "Laica",
+      "has_synced": false,
+      "path": "select/pl_01_杪夏_Laica.txt"
+    }
+  ]
+}
